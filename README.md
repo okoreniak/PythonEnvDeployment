@@ -12,3 +12,11 @@ If so, go to the mentioned folder, allowing you to run the pipx executable direc
 Enter the following line (even if you did not get the warning):
 
 ".\pipx.exe ensurepath"
+
+Verify pipx is installed and works.
+
+Install connan with pipx (see https://docs.conan.io/2/installation.html for details)
+
+ "pipx install conan"
+
+ 
